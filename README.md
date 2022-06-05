@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Eraldo
-- 👀 I’m interested in Swift Code
-- 🌱 I’m currently learning SwiftUI
+Hi, I’m Eraldo. An iOS Developer from Sao Paulo, Brazil, work for the largest bank in latin america.
